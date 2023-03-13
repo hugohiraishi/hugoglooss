@@ -1,8 +1,6 @@
 # Hugo
  # --- 
- Experiencia:
-   Estudante: Unimar
- 
+ Experiencia:  Estudante: Unimar
 
  # --- 
 
