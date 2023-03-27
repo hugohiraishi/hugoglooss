@@ -1,4 +1,4 @@
->>>>> main
+
 # Hugo yudi Hiraishi
 # --- 
 
