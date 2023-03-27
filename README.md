@@ -1,5 +1,1 @@
 # Hugo yudi Hiraishi
-
-
-    
- # --- 
