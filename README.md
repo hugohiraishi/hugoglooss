@@ -1,4 +1,7 @@
+
+
 ###  Educação:
+
 Ensino Médio;
   Escola EE. Prof. Baltazar de Godoy Moreira - Marília, SP
     Conclusão: (2020-2022)
