@@ -4,9 +4,9 @@
 
 ###  Educação:
 
-Ensino Médio;
-  Escola EE. Prof. Baltazar de Godoy Moreira - Marília, SP
-   - Conclusão: (2020-2022)
+Ensino Médio:
+  - Escola EE. Prof. Baltazar de Godoy Moreira - Marília, SP
+   Conclusão: (2020-2022)
 
 Ensino Superior;
   Universidade Unimar - Marília, SP
