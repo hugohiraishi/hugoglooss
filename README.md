@@ -1,5 +1,5 @@
+>>>>> main
 # Hugo yudi Hiraishi
-
 # --- 
 
 ###  Educação:
