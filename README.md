@@ -1,3 +1,8 @@
+
+Ensino Médio: 
+   - EE. Prof. Baltazar de Godoy Moreira - Marília, SP
+   - Conclusão: (2020-2022)
+=======
 # Hugo Yudi Hiraishi
 
 
@@ -25,6 +30,8 @@ Ensino Superior:
    - Carga horária: 2.400 horas-aula
     
  ### --- 
+ 
+=======
 
 ### Objetivos:
 
