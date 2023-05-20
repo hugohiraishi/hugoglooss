@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .dados{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .label{
+        font-weight: bolder;
+    }
+    .documentos{
+        display: flex;
+    }
+
+    @media (max-width: 576px) {
+        .documentos{
+            width: 100%;
+        }
+    }
+    @media (min-width: 576px) {
+        .documentos{
+            width: 50%;
+        }
+    }
+    @media (min-width: 768px) {
+        .documentos{
+            width: 25%;
+        }
+    }
+    
+</style>
+<body>
+    <div class="documentos">
+        <div class="dados">
+            <span class="label">Nome: </span>
+            <span class="value">Victor Borba</span>
+        </div>
+        <div class="dados">
+            <span class="label">Endereço: </span>
+            <span class="value">Rua UNIMAR, 234</span>
+        </div>
+        <div class="dados">
+            <span class="label">Email: </span>
+            <span class="value">victorborba@unimar.br</span>
+        </div>
+    </div>
+</body>
+</html>

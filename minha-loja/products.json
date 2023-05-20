@@ -1,0 +1,46 @@
+{
+    "products":[
+        {
+            "name": "Adidas Superstar Slip-On",
+            "price": 399.99,
+            "link": "https://www.adidas.com.br/tenis-superstar-slip-on/EX4624.html",
+            "imgs": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/654935bd76794238995babf40025494c_9366/Tenis_Superstar_Slip-On_Azul_EX4624_01_standard.jpg",
+            "active": true
+        },
+        {
+            "name": "Adidas Campus",
+            "price": 599.99,
+            "link": "https://www.adidas.com.br/tenis-campus-00s/HP6396.html",
+            "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/11361aa73d114e8f9396afaa00e542a2_9366/Tenis_Campus_00s_Preto_HP6396_01_standard.jpg",
+            "active": true
+        },
+        {
+            "name": "Adidas Superstar",
+            "price": 499.99,
+            "link": "https://www.adidas.com.br/tenis-superstar/EG4958.html",
+            "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ed0855435194229a525aad6009a0497_9366/Tenis_Superstar_Branco_EG4958_01_standard.jpg",
+            "active": true
+        },
+        {
+            "name": "Adidas Ultraboost Light",
+            "price": 399.99,
+            "link": "https://www.adidas.com.br/tenis-ultraboost-light/HQ6351.html",
+            "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0fbed4646c1d46e0aae0af6901301ff4_9366/Tenis_Ultraboost_Light_Branco_HQ6351_01_standard.jpg",
+            "active": true
+        },
+        {
+            "name": "Adidas Advantage Base",
+            "price": 299.99,
+            "link": "https://www.adidas.com.br/tenis-advantage-base/HP9387.html",
+            "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/47de5146c95644409a71af5b00dd0265_9366/Tenis_Advantage_Base_Branco_HP9387_01_standard.jpg",
+            "active": true
+        },
+        {
+            "name": "Adidas Advantage Base",
+            "price": 299.99,
+            "link": "https://www.adidas.com.br/tenis-advantage-base/HP9387.html",
+            "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/47de5146c95644409a71af5b00dd0265_9366/Tenis_Advantage_Base_Branco_HP9387_01_standard.jpg",
+            "active": true
+        }
+    ]
+}

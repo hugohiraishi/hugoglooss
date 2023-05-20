@@ -1,0 +1,12 @@
+.navbar-brand,.nav-link{
+    color: red;
+}
+
+.carousel-item{
+    background-color: #2c3035;
+    text-align: -webkit-center;
+}
+
+.card{
+    text-align: center;
+}
